@@ -21,8 +21,12 @@
   Force to change the Atem programm to the camera
 
 **Code inspired by:**
+
 https://github.com/aaronpk/atem-tally-controller
+
 https://mwftech.wordpress.com/2021/03/02/using-m5-stick-c-with-tally-arbiter/
+
 https://github.com/josephdadams/TallyArbiter/tree/master/listener_clients/m5stickc-listener
+
 https://github.com/kasperskaarhoj/SKAARHOJ-Open-Engineering/tree/master
 
