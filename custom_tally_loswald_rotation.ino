@@ -8,8 +8,8 @@
 IPAddress switcherIp(192, 168, 0, 101);
 
 // Votre SSID et mot de passe WiFi
-const char* ssid = "ORCAHub";
-const char* password = "Production21";
+const char* ssid = "YourWifiName";
+const char* password = "YourWifiPassword";
 
 // Couleurs personnalisées (en RGB)
 #define RED     0xF800  // Rouge pur
