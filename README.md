@@ -13,7 +13,10 @@
 
 **How to use de M5:**
 
-Button A - Change camera number of the tally module
-Buttin B - Short press auto change orientation with the gyro
-Button B - Long press Force to change the Atem programm to the camera
+- Button A (short press)
+  Change camera number of the tally module
+- Buttin B (short press)
+  Auto change orientation with the gyro
+- Button B (Long press)
+  Force to change the Atem programm to the camera
 
