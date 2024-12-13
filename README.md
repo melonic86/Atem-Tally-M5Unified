@@ -5,7 +5,7 @@
 - Install Arduino IDE
 - Install M5Stack Board by following this tutorial: https://docs.m5stack.com/en/arduino/arduino_board
 - Add to the library: MfUnified, Wifi
-- Add manuelly in the library foder: SkaarhojPgmspace, ATEMbase and ATEMstd
+- Add manuelly in the library folder of Arduino: SkaarhojPgmspace, ATEMbase and ATEMstd
 - Open custom_tally_loswald_rotation.ino and copy that code in your Arduino.
 - Change the wifi name, password and Ip of your ATEM
 - Select your board in Arduino IDE
