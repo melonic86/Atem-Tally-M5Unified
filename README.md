@@ -1,3 +1,5 @@
+Note: I use this code for M5StickCPlus2 tally directly connected to a ATEM mini, it shold work an all M5 stick and all ATEM.
+
 **Installation**
 
 - Install Arduino IDE
